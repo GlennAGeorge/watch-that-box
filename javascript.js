@@ -32,7 +32,7 @@ document.getElementById("button5").addEventListener("click", function(){
 
 document.getElementById("button6").addEventListener("click", function(){
 
-    document.getElementById("box").style.height = "150px";
+    document.getElementById("box").style.height = "160px";
     document.getElementById("box").style.width = "150px";
     document.getElementById("box").style.backgroundColor = "orange";
     document.getElementById("box").style.opacity = "1";
