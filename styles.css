@@ -1,0 +1,18 @@
+p {background-color: black;}
+p {color: white;}
+p {font-size: 6ch;}
+p {font-weight: bold;}
+
+
+#button1 {background-color: green;}
+#button1:focus {background-color: red;}
+#button2 {background-color: green;}
+#button2:focus {background-color: red;}
+#button3 {background-color: green;}
+#button3:focus {background-color: red;}
+#button4 {background-color: green;}
+#button4:focus {background-color: red;}
+#button5 {background-color: green;}
+#button5:focus {background-color: red;}
+#button6 {background-color: green;}
+#button6:focus {background-color: red;}
